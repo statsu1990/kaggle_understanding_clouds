@@ -7,7 +7,7 @@ https://www.kaggle.com/c/understanding_cloud_organization
 - There are 4types of clouds.
 
 ## Solution overview
-- ranking : 180th / 1556 teams
+- ranking : 167th / 1538 teams
 - score : Public 0.65691 / Private 0.65430
 - method : segmentation using deep learning
   - segmentation model : deeplab v3+ (backbone MobileNetV2)<br>
