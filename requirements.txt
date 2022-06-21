@@ -23,7 +23,7 @@ mkl-fft==1.0.14
 mkl-random==1.1.0
 mkl-service==2.3.0
 networkx==2.4
-numpy==1.17.2
+numpy==1.22.0
 opencv-python-headless==4.1.1.26
 pandas==0.25.1
 patsy==0.5.1
